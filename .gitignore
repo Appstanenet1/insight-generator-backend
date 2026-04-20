@@ -1,0 +1,13 @@
+# Secrets - DO NOT COMMIT THESE
+.env
+Inisght-generator api key.txt
+data.csv
+
+
+# Python Environment
+venv/
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
