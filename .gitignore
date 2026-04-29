@@ -1,7 +1,6 @@
 # Secrets - DO NOT COMMIT THESE
 .env
 Inisght-generator api key.txt
-data.csv
 
 
 # Python Environment
@@ -11,3 +10,4 @@ __pycache__/
 
 # OS files
 .DS_Store
+gcp-service-account.json
